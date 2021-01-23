@@ -1,7 +1,7 @@
-# AFOLAYAN Precious Temilade
-10, Atanda Lane, off Ore-kupolati street, Ogba-Lagos, Nigeria. <br>
+# AFOLAYAN Precious Temilade <br>
+<p align="center"> 10, Atanda Lane, off Ore-kupolati street, Ogba-Lagos, Nigeria. <br>
 temilade.afolayan123@gmail.com <br>
-08133002791, 09095311138
+08133002791, 09095311138 </p>
 
 
 

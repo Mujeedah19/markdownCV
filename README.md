@@ -1,4 +1,4 @@
-# AFOLAYAN Precious Temilade <br>
+<h3 align="center">  AFOLAYAN Precious Temilade </h3> 
 <p align="center"> 10, Atanda Lane, off Ore-kupolati street, Ogba-Lagos, Nigeria. <br>
 temilade.afolayan123@gmail.com <br>
 08133002791, 09095311138 </p>
@@ -22,7 +22,7 @@ Gender: Female.
 
 _______________
 
-**Utiva Data Accelerator Program and Virtual Internship              Dec. 2020 till date**                                                         
+<div align="left"> **Utiva Data Accelerator Program and Virtual Internship** </div>     <div align="right"> **Dec. 2020 till date** </div>                                                         
 
 National Youth Service Corps (NYSC), Lagos State, Nigeria	         **2018 - 2019** <br>
 **Certificate of National Service**

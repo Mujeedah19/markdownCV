@@ -22,8 +22,8 @@ Gender: Female.
 
 _______________
 
-<div align="left"> **Utiva Data Accelerator Program and Virtual Internship** </div>     <div align="right"> **Dec. 2020 till date** </div>                                                         
-
+**Utiva Data Accelerator Program and Virtual Internship    Dec. 2020 till date **  
+	
 National Youth Service Corps (NYSC), Lagos State, Nigeria	         **2018 - 2019** <br>
 **Certificate of National Service**
 
